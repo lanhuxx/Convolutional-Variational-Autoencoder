@@ -1,6 +1,7 @@
-#!/usr/bin/env python
-# -*- coding:utf-8 -*-
-# _author_= liyu
+# Author: Y. Li
+
+# Language: Python 3.6.5
+# Environment: tensorflow-gpu 1.8.0
 
 from __future__ import division, print_function, absolute_import
 
